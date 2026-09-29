@@ -1,8 +1,11 @@
-Hello, I am Bruno👋
-FULL STACK WEB DEVELOPER • IN TRAINING
+# 👋 Hey, I'm Bruno
 
-Developer in training, focused on building web applications
-and continuously evolving in Full Stack development.
+### Full Stack Developer in Training
+
+I build web applications, learn by building,
+and turn ideas into real-world projects.
+
+[🌐 Portfolio] · [💼 LinkedIn] · [📧 Contact]
 
 
 > ABOUT ME
