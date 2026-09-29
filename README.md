@@ -5,7 +5,6 @@
 I build web applications, learn by building,
 and turn ideas into real-world projects.
 
-[🌐 Portfolio] · [💼 LinkedIn] · [📧 Contact]
 
 
 > ABOUT ME
